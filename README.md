@@ -76,7 +76,3 @@ Contributions to improve the Course Scheduler Assistant are welcome. Please feel
 
 [MIT License](LICENSE)
 
-## Acknowledgments
-
-- This project uses the Groq API for language model interactions.
-- Built with Streamlit and Haystack.
