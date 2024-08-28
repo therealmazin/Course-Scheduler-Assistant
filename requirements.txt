@@ -1,0 +1,3 @@
+python-dotenv
+haystack-ai
+PyPDF2
