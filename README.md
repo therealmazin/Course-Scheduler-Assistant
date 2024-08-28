@@ -1,5 +1,6 @@
 # Course Scheduler Assistant
 
+Visit **https://course-scheduler.streamlit.app/** to try it out
 ## Overview
 
 The Course Scheduler Assistant is an AI-powered tool designed to help professors at Auburn University create and optimize their course schedules. This Streamlit-based application uses advanced language models to analyze existing course schedules (via PDF upload) or assist in creating new schedules from scratch.
